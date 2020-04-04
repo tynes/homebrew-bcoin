@@ -1,6 +1,6 @@
 require "language/node"
 
-class BClient < Formula
+class Bclient < Formula
   desc "Bcoin node and wallet clients"
   homepage "https://bcoin.io"
   url "https://github.com/bcoin-org/bclient/archive/v0.1.7.tar.gz"
