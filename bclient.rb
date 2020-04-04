@@ -17,4 +17,3 @@ class Bclient < Formula
     system "#{HOMEBREW_PREFIX}/bin/bcoin-cli", "--version"
   end
 end
-

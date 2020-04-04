@@ -31,4 +31,3 @@ class Bcoin < Formula
     assert_true File.directory?("#{testpath}/.bcoin")
   end
 end
-
